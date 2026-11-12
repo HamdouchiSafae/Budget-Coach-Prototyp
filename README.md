@@ -46,3 +46,8 @@ Dieses Projekt wurde im Rahmen einer Bachelorarbeit entwickelt:
 
 ## Hinweis
 Der Prototyp dient ausschließlich Forschungszwecken.
+
+## Testdaten / Test data
+Die WhatsApp-Nachrichten in `data_sources/whatsapp/whatsapp_export.txt` sind **vollständig simuliert**. Es handelt sich um fiktive Nachrichten, die ausschließlich zum Testen dieses Prototyps im Rahmen der Bachelorarbeit erstellt wurden. Es wurden keine echten privaten Unterhaltungen verwendet; Inhalte und Beträge sind frei erfunden.
+
+*The WhatsApp messages in `data_sources/whatsapp/whatsapp_export.txt` are **entirely synthetic test data**: fictional messages created solely to test this bachelor thesis prototype. No real private conversations were used; all content and amounts are fictional.*
